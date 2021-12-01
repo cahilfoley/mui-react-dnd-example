@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/mui-react-dnd-example/static/js/main.beef6b56.chunk.js",
+    "main.js.map": "/mui-react-dnd-example/static/js/main.beef6b56.chunk.js.map",
+    "runtime-main.js": "/mui-react-dnd-example/static/js/runtime-main.e697bbe0.js",
+    "runtime-main.js.map": "/mui-react-dnd-example/static/js/runtime-main.e697bbe0.js.map",
+    "static/js/2.b9b10eb5.chunk.js": "/mui-react-dnd-example/static/js/2.b9b10eb5.chunk.js",
+    "static/js/2.b9b10eb5.chunk.js.map": "/mui-react-dnd-example/static/js/2.b9b10eb5.chunk.js.map",
+    "index.html": "/mui-react-dnd-example/index.html",
+    "static/js/2.b9b10eb5.chunk.js.LICENSE.txt": "/mui-react-dnd-example/static/js/2.b9b10eb5.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e697bbe0.js",
+    "static/js/2.b9b10eb5.chunk.js",
+    "static/js/main.beef6b56.chunk.js"
+  ]
+}
